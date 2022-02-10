@@ -109,7 +109,7 @@ function generateCollaseIcon(id) {
     if (id % 2) collapseIcon.classList.add("collapse-icon__left");
     collapseIcon.setAttribute("id", `sectionBtn-${id + 1}`);
     let collapseIconImg = document.createElement("img");
-    collapseIconImg.setAttribute("src", "minus.png");
+    collapseIconImg.setAttribute("src", "./images/minus.png");
     collapseIconImg.setAttribute("alt", "collapse icon");
     collapseIcon.appendChild(collapseIconImg);
     return collapseIcon
@@ -130,10 +130,10 @@ collapseIcons.forEach(icon => {
         event.preventDefault();
         let btnId = event.target.id;
         if (isCollased) {
-            document.querySelector(`#${btnId} img`).setAttribute("src", "add-button.png")
+            document.querySelector(`#${btnId} img`).setAttribute("src", "./images/add-button.png")
             isCollased = false
         } else {
-            document.querySelector(`#${btnId} img`).setAttribute("src", "minus.png")
+            document.querySelector(`#${btnId} img`).setAttribute("src", "./images/minus.png")
             isCollased = true
         }
         btnNum = btnId.split("-")[1];
