@@ -1,4 +1,5 @@
 # Landing Page Project
+ landing page project solution 
 
 ## Table of Contents
 
@@ -46,7 +47,7 @@ I have learned through this prjoect how to work with javascrpit to manipulate th
 ## screen shot
 [(Back to top)](#table-of-contents)
 
-![Screenshot](images/screenshot.png)
+![Screenshot](images/screen%20shot.png)
 
 ## Links
 [(Back to top)](#table-of-contents)
