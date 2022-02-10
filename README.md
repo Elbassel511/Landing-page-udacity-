@@ -33,6 +33,7 @@ A solution to landing page project for udacity professional front-end web develo
   - arrow-up.png
   - minus.png
   - screenshot.png
+  - capture.gif
 - js
   - app.js
 - index.html
@@ -47,7 +48,7 @@ I have learned through this prjoect how to work with javascrpit to manipulate th
 ## screen shot
 [(Back to top)](#table-of-contents)
 
-![Screenshot](images/screen%20shot.png)
+![Screenshot](images/capture.gif)
 
 ## Links
 [(Back to top)](#table-of-contents)
