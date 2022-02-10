@@ -13,6 +13,7 @@
 
 ## Overview
 [(Back to top)](#table-of-contents)
+
 A solution to landing page project for udacity professional front-end web development first project.
 
 ## Built with
@@ -23,28 +24,33 @@ A solution to landing page project for udacity professional front-end web develo
 
 ## files
 [(Back to top)](#table-of-contents)
--css
- -styles.css
--images
- -add-button.png
- -arrow-up.png
- -minus.png
--js
- -app.js
--index.html
--README.md
+
+- css
+  - styles.css
+- images
+  - add-button.png
+  - arrow-up.png
+  - minus.png
+  - screenshot.png
+- js
+  - app.js
+- index.html
+- README.md
 
 
 ## Lessons Learned
 [(Back to top)](#table-of-contents)
+
 I have learned through this prjoect how to work with javascrpit to manipulate the DOM ,setting event listiners and much more...
 
 ## screen shot
 [(Back to top)](#table-of-contents)
-![Screenshot](images/screen shot.png)
+
+![Screenshot](images/screenshot.png)
 
 ## Links
 [(Back to top)](#table-of-contents)
+
 - Solution URL: [https://github.com/Elbassel511/Landing-page-udacity-]
 - Live Site URL: [https://elbassel511.github.io/Landing-page-udacity-/]
 
@@ -56,6 +62,7 @@ I have learned through this prjoect how to work with javascrpit to manipulate th
 
 ## Author
 [(Back to top)](#table-of-contents)
+
 - Github - [@Elbassel511](https://github.com/Elbassel511)
 - Linked in - [@Hamada Elbassel](https://www.linkedin.com/in/hamadaelbassel/)
 
