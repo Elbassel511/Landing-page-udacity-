@@ -57,6 +57,7 @@ I have learned through this prjoect how to work with javascrpit to manipulate th
 
 
 ## Run Locally
+[(Back to top)](#table-of-contents)
 
 - Clone the project
 - open index.html
